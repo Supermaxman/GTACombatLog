@@ -1,0 +1,6 @@
+name: GTACombatLog
+main: me.supermaxman.gtacombatlog.GTACombatLog
+version: 1.0.0
+author: Supermaxman
+description: GTACombatLog
+commands:

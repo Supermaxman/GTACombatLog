@@ -1,0 +1,8 @@
+# Notes:
+#
+settings:
+  cooldown: 10
+  damage: 6
+  messages:
+    NoCommandMessage: '&4You cannot use commands in combat!'
+    CombatLogDamageMessage: '&4You have been punished for combat logging!'
